@@ -1,0 +1,1 @@
+O'qib ko'rin
