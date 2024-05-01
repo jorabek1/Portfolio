@@ -8,6 +8,9 @@ header{
     text-align: center
 }
 
+body{
+    background-color: greenyellow;
+}
 .experiense-company{
     color: green ;
 }
